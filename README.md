@@ -1,2 +1,1 @@
-# photographic-website
-exercising skills
+
